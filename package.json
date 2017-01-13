@@ -1,0 +1,19 @@
+{
+  "name": "RevStack.LingToSql",
+  "version": "1.0.0",
+  "description": "LinqToSql implementation of the RevStack c# repository pattern",
+  "main": "RevStack.LinqToSql.sln",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RevStack/LinqToSql.git"
+  },
+  "author": "S. Francis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RevStack/LinqToSql/issues"
+  },
+  "homepage": "https://github.com/RevStack/LinqToSql"
+}
