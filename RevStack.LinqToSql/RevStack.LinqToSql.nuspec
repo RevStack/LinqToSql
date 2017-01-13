@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>RevStack.LinqToSql</id>
+    <version>1.0.0</version>
+    <title>RevStack.LinqToSql</title>
+    <authors>Scott Francis, MIS Interactive</authors>
+    <owners>D. Sheets, S. Francis</owners>
+    <licenseUrl>https://github.com/RevStack/LinqToSql/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/RevStack/LinqToSql.git</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>LinqToSql implementation of the RevStack c# repository pattern</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>RevStack LinqToSql</tags>
+  </metadata>
+</package>
