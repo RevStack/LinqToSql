@@ -3,6 +3,7 @@ configuration: Release
 version: 1.0.{build}
 
 build:
+    project: RevStack.LinqToSql.sin
     parallel: true
     publish_nuget: true
     verbosity: minimal
